@@ -3,10 +3,10 @@
 
 npx -v проверка установленной версии npx\
 npx create-react-app react-youtube установка create-react-app (получаем проект из папок)\
-npm install prop-type валидация параметров\
+npm install prop-type валидация параметров
 
 cd react-youtube переход в папку\
-code . редактор vscode\
+code . редактор vscode
 
 npm start запуск приложения
 
