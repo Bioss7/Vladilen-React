@@ -1,14 +1,14 @@
 
 # React JS Быстрый Курс #
 
-npx -v проверка установленной версии npx
-npx create-react-app react-youtube установка create-react-app (получаем проект из папок)
-npm install prop-type валидация параметров
+npx -v проверка установленной версии npx\
+npx create-react-app react-youtube установка create-react-app (получаем проект из папок)\
+npm install prop-type валидация параметров\
 
-cd react-youtube переход в папку
-code . редактор vscode
+cd react-youtube переход в папку\
+code . редактор vscode\
 
-npm start запуск приложения 
+npm start запуск приложения
 
 # Getting Started with Create React App
 
